@@ -11,3 +11,13 @@
 //Hente nye updates og se status: git fetch -> git status -> git pull
 
 //Ved bruk av Git bash terminal kan "Clear" brukes til å tømme terminalen.
+
+// workflow
+
+// git branch viser alle brancher 
+
+// ved å lage/adde ny branch bruk command git branch littlefeature (navn på ny branch) 
+
+// gå til ny branch git checkout littlefeature
+
+
