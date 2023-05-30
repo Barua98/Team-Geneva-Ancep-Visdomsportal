@@ -11,3 +11,4 @@
 //Hente nye updates og se status: git fetch -> git status -> git pull
 
 //Ved bruk av Git bash terminal kan "Clear" brukes til å tømme terminalen.
+
